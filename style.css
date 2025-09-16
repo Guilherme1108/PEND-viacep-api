@@ -7,8 +7,8 @@
 }
 
 :root {
-    --bg-color: #000;
-    --primary-color: #EBCE07
+    --bg-color: #06507a;       /* Azul céu claro, bem suave */
+    --primary-color: #dba75e;  /* Amarelo areia claro, suave e quente */
 }
 
 body {
